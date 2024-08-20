@@ -6,7 +6,7 @@ https://github.com/user-attachments/assets/b388ce08-fe81-4dd1-941d-9ee0876e3343
 
 **CRT Monitor Terminal decryption Animation** is a captivating web animation designed to simulate a terminal typing effect and the retro nostalgia of a CRT monitor. Built with vanilla JavaScript, HTML, and CSS, this project offers a unique way to display dynamic text with a modern, clean aesthetic. Ideal for personal websites and portfolios, this animation provides an engaging introduction for developers, hackers, engineers, and designers alike.
 
-[View Live Demo](https://forresttindall.github.io/CRT-Monitor-Terminal-Cryptex-Animation/)
+[View Live Demo](https://forresttindall.github.io/CRT-Monitor-Terminal-Decryption-Animation/)
 
 ## Features
 
