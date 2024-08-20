@@ -2,9 +2,9 @@
 
 ## Overview
 
-**CRT Monitor Terminal Cryptex Animation** is a captivating web animation designed to simulate a terminal typing effect. Built with vanilla JavaScript, HTML, and CSS, this project offers a unique way to display dynamic text with a modern, clean aesthetic. Ideal for personal websites and portfolios, this animation provides an engaging introduction for developers, hackers, engineers, and designers alike.
+**CRT Monitor Terminal Cryptex Animation** is a captivating web animation designed to simulate a terminal typing effect and the retro nostalgia of a CRT monitor. Built with vanilla JavaScript, HTML, and CSS, this project offers a unique way to display dynamic text with a modern, clean aesthetic. Ideal for personal websites and portfolios, this animation provides an engaging introduction for developers, hackers, engineers, and designers alike.
 
-[View Live Demo](https://forresttindall.github.io/terminal-cryptex-animation/)
+[View Live Demo](https://forresttindall.github.io/crt-monitor-terminal-cryptex-animation/)
 
 ## Features
 
