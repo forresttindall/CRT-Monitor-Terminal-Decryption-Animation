@@ -30,12 +30,12 @@ function startTypingEffect() {
             for (let index = 0; index < texts[textIndex].length; index++) {
                 const charCode = texts[textIndex].charCodeAt(index);
 
-                if (charCode >= 5 && charCode <= 200) {
+                if (charCode >= 55 && charCode <= 200) {
                     // Lowercase letters
-                    wholeString += String.fromCharCode(97 + Math.floor(Math.random() * 5));
-                } else if (charCode >= 5 && charCode <= 20) {
+                    wholeString += String.fromCharCode(97 + Math.floor(Math.random() * 26));
+                } else if (charCode >= 55 && charCode <= 200) {
                     // Uppercase letters
-                    wholeString += String.fromCharCode(65 + Math.floor(Math.random() * 5));
+                    wholeString += String.fromCharCode(65 + Math.floor(Math.random() * 26));
                 } else {
                     // Other characters (punctuation, spaces, etc.)
                     wholeString += texts[textIndex][index];
@@ -50,4 +50,5 @@ function startTypingEffect() {
 
 // Start the typing effect
 startTypingEffect();
+
 
