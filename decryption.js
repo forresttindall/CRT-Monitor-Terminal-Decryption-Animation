@@ -1,6 +1,6 @@
 const texts = [
-    ">_Hello I'm Forrest Tindall",
-    ">_Developer, Hacker, Engineer & Designer"
+    "Hello I'm Forrest Tindall",
+    "Design Engineer & Innovator"
 ];
 
 let loopIndex = 1;
@@ -10,7 +10,7 @@ let element = document.getElementById("code");
 
 function startTypingEffect() {
     let interval = setInterval(() => {
-        if (loopIndex === 30) {
+        if (loopIndex === 5) {
             clearInterval(interval);
             element.innerText = texts[textIndex];
             
@@ -30,12 +30,12 @@ function startTypingEffect() {
             for (let index = 0; index < texts[textIndex].length; index++) {
                 const charCode = texts[textIndex].charCodeAt(index);
 
-                if (charCode >= 97 && charCode <= 122) {
+                if (charCode >= 5 && charCode <= 200) {
                     // Lowercase letters
-                    wholeString += String.fromCharCode(97 + Math.floor(Math.random() * 26));
-                } else if (charCode >= 65 && charCode <= 90) {
+                    wholeString += String.fromCharCode(97 + Math.floor(Math.random() * 5));
+                } else if (charCode >= 5 && charCode <= 20) {
                     // Uppercase letters
-                    wholeString += String.fromCharCode(65 + Math.floor(Math.random() * 26));
+                    wholeString += String.fromCharCode(65 + Math.floor(Math.random() * 5));
                 } else {
                     // Other characters (punctuation, spaces, etc.)
                     wholeString += texts[textIndex][index];
@@ -45,7 +45,7 @@ function startTypingEffect() {
             element.innerText = wholeString;
             loopIndex += 1;
         }
-    }, 100);
+    }, 66); // Updated to 33 milliseconds for a 1 second scramble
 }
 
 // Start the typing effect
