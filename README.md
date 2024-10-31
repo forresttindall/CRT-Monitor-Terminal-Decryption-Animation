@@ -1,5 +1,5 @@
 
-https://github.com/user-attachments/assets/558aae14-40b3-4512-8ef8-0cdb97e249d9
+
 # CRT Monitor Terminal Decrtyption Animation
 
 
