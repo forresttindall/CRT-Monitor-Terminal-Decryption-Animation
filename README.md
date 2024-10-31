@@ -1,8 +1,14 @@
+
+https://github.com/user-attachments/assets/558aae14-40b3-4512-8ef8-0cdb97e249d9
 # CRT Monitor Terminal Decrtyption Animation
 
 
 
-https://github.com/user-attachments/assets/c5bef6e6-72ac-4e66-8dec-9b2b4fc6ab76
+
+https://github.com/user-attachments/assets/1601e7c4-bbe8-4e35-8b33-0a42602d9287
+
+
+
 
 
 
